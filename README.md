@@ -1,4 +1,4 @@
-# Demo .NET Yield and IEnumerable
+# Demo C# Yield and IEnumerable
 Demo of the use of yield return and IEnumerable on C#
 
 
